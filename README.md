@@ -1,0 +1,2 @@
+# LargerImageView
+一个用来加载大图片的ImageView，加载高清无压缩大小的自定义控件
